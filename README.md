@@ -11,7 +11,9 @@ from [Releases](../../releases/latest).
 - **Installer:** `FactonationToolbox-setup.exe` (per-user install, no admin rights needed)
 - **Command-line tool:** `ftb.exe` (portable, for diagnostics and support)
 
-No telemetry: the app sends nothing anywhere. Support: admin@factonation.com
+No telemetry: the only internet request is the update check against this
+repository, which sends nothing about you or your PLC and can be turned off in
+the app. Support: admin@factonation.com
 
 Published by Alpha Spare Parts Co., Ltd. under the Factonation brand.
 **Samkoon** is a trademark of Shenzhen Samkoon Technology Co., Ltd.; this tool
